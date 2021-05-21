@@ -5,9 +5,9 @@
  * To learn more and add one to your website, visit - https://superpwa.com
  */
  
-const cacheName = 'marwanto606';
-const startPage = 'https://www.marwanto606.com';
-const offlinePage = 'https://www.marwanto606.com';
+const cacheName = 'yallashootlive';
+const startPage = 'https://www.live-yalla-shoot.com';
+const offlinePage = 'https://www.live-yalla-shoot.com';
 const filesToCache = [startPage, offlinePage];
 const neverCacheUrls = [/\/wp-admin/,/\/wp-login/,/preview=true/];
 
